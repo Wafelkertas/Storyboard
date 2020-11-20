@@ -1,0 +1,1 @@
+This Application used for testing & learning purposes only with Nodejs, Google Oauth2 Websession, Passport And Mongodb.
